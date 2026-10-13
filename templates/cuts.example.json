@@ -1,0 +1,109 @@
+{
+  "project": "clase1",
+  "source": "source/Clase 1.mp4",
+  "language": "es",
+  "title": "Clase 1 — Desarrollo de Software Agéntico",
+  "clips": [
+    {
+      "id": "01",
+      "slug": "prompt-engineering-nueva-habilidad",
+      "title": "Prompt Engineering: la nueva habilidad del siglo",
+      "start": "00:00:00.000",
+      "end": "00:01:51.800",
+      "hook": "El lenguaje de programación más usado hoy es el inglés.",
+      "why": "Afirmación fuerte que reencuadra qué significa programar. Abre en frío sin necesitar contexto previo.",
+      "fill": "blur",
+      "platforms": ["instagram", "linkedin", "tiktok"],
+      "hashtags": ["#PromptEngineering", "#IA", "#DesarrolloDeSoftware"]
+    },
+    {
+      "id": "02",
+      "slug": "era-agentica-el-futuro-ya-llego",
+      "title": "La era agéntica: el futuro ya llegó",
+      "start": "00:03:45.000",
+      "end": "00:05:19.000",
+      "hook": "Ya no se trata de usar IA, sino de dirigirla.",
+      "why": "Define el término que da nombre al curso. Buen clip de posicionamiento.",
+      "fill": "blur",
+      "platforms": ["instagram", "linkedin"],
+      "hashtags": ["#IAAgentica", "#FuturoDelTrabajo", "#IA"]
+    },
+    {
+      "id": "03",
+      "slug": "tres-primeros-elementos-prompt",
+      "title": "Los 3 primeros elementos de un prompt perfecto",
+      "start": "00:12:39.000",
+      "end": "00:14:12.000",
+      "hook": "Empieza por el rol: acota el área de conocimiento.",
+      "why": "Contenido accionable y listable — el formato que mejor rinde en shorts educativos.",
+      "fill": "blur",
+      "platforms": ["instagram", "linkedin", "tiktok"],
+      "hashtags": ["#PromptEngineering", "#TipsDeIA", "#Productividad"]
+    },
+    {
+      "id": "04",
+      "slug": "lo-que-no-dices-la-ia-lo-inventa",
+      "title": "Lo que no dices, la IA lo inventa",
+      "start": "00:15:33.000",
+      "end": "00:17:11.000",
+      "hook": "Todo lo que dejas ambiguo, el modelo lo rellena por ti.",
+      "why": "Explica las alucinaciones desde la responsabilidad del usuario. Muy compartible.",
+      "fill": "blur",
+      "platforms": ["instagram", "linkedin", "tiktok"],
+      "hashtags": ["#IA", "#Alucinaciones", "#PromptEngineering"]
+    },
+    {
+      "id": "05",
+      "slug": "no-es-el-modelo-eres-tu",
+      "title": "No es el modelo, eres tú",
+      "start": "00:19:15.000",
+      "end": "00:20:22.000",
+      "hook": "Si la respuesta es mala, revisa primero tu prompt.",
+      "why": "Título provocador y clip corto. El más probable de retener hasta el final.",
+      "fill": "blur",
+      "platforms": ["instagram", "linkedin", "tiktok"],
+      "hashtags": ["#IA", "#PromptEngineering", "#Mentalidad"]
+    },
+    {
+      "id": "06",
+      "slug": "tokens-contexto-y-olvido",
+      "title": "Tokens, contexto y olvido",
+      "start": "00:20:42.000",
+      "end": "00:22:17.000",
+      "hook": "Por qué la IA olvida lo que le dijiste hace diez mensajes.",
+      "why": "Resuelve una frustración que todo el mundo ha vivido. Alto valor explicativo.",
+      "fill": "blur",
+      "platforms": ["instagram", "linkedin"],
+      "hashtags": ["#Tokens", "#VentanaDeContexto", "#IA"]
+    },
+    {
+      "id": "07",
+      "slug": "ia-gratis-local-y-privada-con-ollama",
+      "title": "IA gratis, local y privada con Ollama",
+      "start": "00:33:10.000",
+      "end": "00:35:12.000",
+      "hook": "Modelos de frontera corriendo en tu portátil, sin pagar nada.",
+      "why": "Promesa concreta con beneficio claro (gratis + privado). Ideal para guardados.",
+      "fill": "blur",
+      "platforms": ["instagram", "linkedin", "tiktok", "shorts"],
+      "hashtags": ["#Ollama", "#IALocal", "#Privacidad", "#OpenSource"]
+    },
+    {
+      "id": "08",
+      "slug": "el-harness-el-activo-que-nadie-te-quita",
+      "title": "El harness: el activo que nadie te puede quitar",
+      "start": "00:54:11.000",
+      "end": "00:55:51.000",
+      "hook": "Tu harness es el único activo que los modelos no te pueden quitar.",
+      "why": "Idea original del curso, no es contenido genérico de IA. Fuerte para LinkedIn.",
+      "fill": "blur",
+      "platforms": ["instagram", "linkedin"],
+      "hashtags": ["#Harness", "#IAAgentica", "#Carrera"]
+    }
+  ],
+  "outro": {
+    "file": "assets/brand/ada-closing.mp4",
+    "transition": "blur",
+    "duration": 1.0
+  }
+}
